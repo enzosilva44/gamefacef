@@ -65,3 +65,13 @@ Tecla Espaço: Ao pressionar a tecla, uma Bala é criada na posição do jogador
 
 Movimento: O jogador e os inimigos se movem conforme os comportamentos definidos.
 
+#############################################################################################################
+
+LINK
+https://gamefacef.vercel.app/
+
+PRINTS
+![image](https://github.com/user-attachments/assets/474ac224-1757-4f6b-8791-2a7995c89999)
+
+![image](https://github.com/user-attachments/assets/7a684540-1f77-4196-94ac-f70623080e6d)
+
