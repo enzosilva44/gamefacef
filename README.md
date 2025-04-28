@@ -10,9 +10,9 @@ HTML5: O jogo pode ser exportado como um arquivo HTML5 para ser jogado diretamen
 Áudio: Sons e música para melhorar a experiência do jogo.
 
 📂 Estrutura do Projeto
-Layout Principal: A cena principal onde o jogo acontece, com a área onde os objetos (jogador, inimigos, balas) são colocados.
+Layout Principal: A cena principal onde o jogo acontece, com a área onde os objetos (jogador, adversários e rivalidade) são colocados.
 
-Objetos: São os elementos visuais do jogo, como o jogador (personagem), inimigos (goblins), projéteis (balas), e efeitos visuais (sparkflash).
+Objetos: São os elementos visuais do jogo, como o jogador (personagem), adversário (Palmeiras), projéteis (bolas), e efeitos visuais (sparkflash).
 
 Comportamentos: Cada objeto tem comportamentos específicos, como movimento (Bullet, Fade, etc.), colisões e interações.
 
